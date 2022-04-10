@@ -133,7 +133,6 @@ public class ShaderProfilerStats
         
         foreach (var bassValueDict in combinedList)
         {
-            // Debug.Log(bassValueDict.ShaderName);//这里是对的
             vertexDict.Add(bassValueDict.ShaderName, 0);
             fragmentDict.Add(bassValueDict.ShaderName, 0);
             geometryDict.Add(bassValueDict.ShaderName, 0);
