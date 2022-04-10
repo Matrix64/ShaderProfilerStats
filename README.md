@@ -18,3 +18,7 @@ A tool for the shader profiler json file comparison
 |:-----------:|:------------:|:-------:|:--------------:|:-------:|:--------------:|:-------:|:----------:|:-------:|:------------:|:-------:|
 |   string    |     int      |   int   |      int       |   int   |      int       |   int   |    int     |   int   |     int      |   int   |
 |     ...     |     ...      |   ...   |      ...       |   ...   |      ...       |   ...   |    ...     |   ...   |     ...      |   ...   |
+
+## Blog Link
+
+[为了提高ShaderProfiler可读性,我写了这个统计脚本 – Matrix 64 Blog](https://blog.matrix64.xyz/2022/04/10/%e4%b8%ba%e4%ba%86%e6%8f%90%e9%ab%98shaderprofiler%e5%8f%af%e8%af%bb%e6%80%a7%e6%88%91%e5%86%99%e4%ba%86%e8%bf%99%e4%b8%aa%e7%bb%9f%e8%ae%a1%e8%84%9a%e6%9c%ac/)
